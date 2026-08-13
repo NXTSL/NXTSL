@@ -9,8 +9,8 @@
 - 🌱 正在学习：Java 进阶、Unity 高级功能、Minecraft 动画制作、Vibe Coding
 - 💬 可以问我：电脑软硬件相关全部知识
 - ⚡ 小趣事
-  1. 从2026年8月1日开始研究 Vibe Coding
-  2. 成功部署过 AstrBot、MaiBot
+  ·从2026年8月1日开始研究 Vibe Coding
+  ·成功部署过 AstrBot、MaiBot
 
 ## 技术栈
 ### 编程语言
@@ -19,7 +19,7 @@ Java | C#
 Unity | Blender | IntelliJ IDEA | Rider
 
 ## GitHub 数据统计
-
+![GitHub Stats](https://stats.justsong.cn/api/github?username=NXTSL&lang=zh-CN)
 
 ## 联系
 - QQ邮箱：`1416585676@qq.com`
@@ -49,7 +49,7 @@ Java | C#
 Unity | Blender | IntelliJ IDEA | Rider
 
 ## GitHub Stats
-
+![GitHub Stats](https://stats.justsong.cn/api/github?username=NXTSL&lang=en)
 
 ## Contact
 - QQ Email: `1416585676@qq.com`
