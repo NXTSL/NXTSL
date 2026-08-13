@@ -9,7 +9,7 @@
 - 🌱 正在学习：Java 进阶、Unity 高级功能、Minecraft 动画制作、Vibe Coding
 - 💬 可以问我：电脑软硬件相关全部知识
 - ⚡ 小趣事
-  ·从2026年8月1日开始研究 Vibe Coding
+  ·从2026年8月1日开始研究 Vibe Coding <br>
   ·成功部署过 AstrBot、MaiBot
 
 ## 技术栈
@@ -37,8 +37,8 @@ A developer focusing on Unity game development and Java mini-programs
 - 🌱 Currently learning: Advanced Java, advanced Unity features, Minecraft animation, Vibe Coding
 - 💬 Ask me about: All computer hardware & software knowledge
 - ⚡ Fun facts
-  1. Started learning Vibe Coding on August 1, 2026
-  2. Deployed AstrBot and MaiBot successfully
+  ·Started learning Vibe Coding on August 1, 2026 <br>
+  ·Deployed AstrBot and MaiBot successfully
 
 ## Tech Stack
 ### Programming Languages
