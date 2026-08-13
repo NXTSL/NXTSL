@@ -24,9 +24,7 @@ Unity | Blender | IntelliJ IDEA | Rider
 ## 联系
 - QQ邮箱：`1416585676@qq.com`
 
-##
-版本：1
-日期：2026年08月13日
+
 
 </details>
 
