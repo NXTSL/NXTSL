@@ -8,9 +8,9 @@
 - 🔭 目前在做：Unity 游戏开发、Java 小程序开发
 - 🌱 正在学习：Java 进阶、Unity 高级功能、Minecraft 动画制作、Vibe Coding
 - 💬 可以问我：电脑软硬件相关全部知识
-- ⚡ 小趣事
-  ·从2026年8月1日开始研究 Vibe Coding <br>
-  ·成功部署过 AstrBot、MaiBot
+- ⚡ 小趣事 <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;·从2026年8月1日开始研究 Vibe Coding <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;·成功部署过 AstrBot、MaiBot
 
 ## 技术栈
 ### 编程语言
@@ -36,9 +36,9 @@ A developer focusing on Unity game development and Java mini-programs
 - 🔭 Currently working on: Unity game development, Java mini-program development
 - 🌱 Currently learning: Advanced Java, advanced Unity features, Minecraft animation, Vibe Coding
 - 💬 Ask me about: All computer hardware & software knowledge
-- ⚡ Fun facts
-  ·Started learning Vibe Coding on August 1, 2026 <br>
-  ·Deployed AstrBot and MaiBot successfully
+- ⚡ Fun facts <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;·Started learning Vibe Coding on August 1, 2026 <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;·Deployed AstrBot and MaiBot successfully
 
 ## Tech Stack
 ### Programming Languages
